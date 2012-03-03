@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rouvres - Breteniere.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Rouvres - Breteniere</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				5.141932040501665,47.23950086464744,0 5.141119857588881,47.23957059707082,0 5.140127325869768,47.2396314992524,0 5.13955871316181,47.23958764274354,0 5.139131787389855,47.23948380125714,0 5.13858713209387,47.23922819904854,0 5.137458223402742,47.2386795885002,0 5.136991465755649,47.2385487230881,0 5.135955423622884,47.23816084562422,0 5.135163752493992,47.23777923901988,0 5.134452632025961,47.2374273288366,0 5.130729917016383,47.23686186264922,0 5.130375494764616,47.23676491181348,0 5.129840100015562,47.23627577434171,0 5.128659158035855,47.23521675851001,0 5.127885955876397,47.23450527440078,0 5.126791555120159,47.23592554368503,0 5.124838048884184,47.23842943131887,0 5.124021054890706,47.23946414102195,0 5.122632692616101,47.23886475675825,0 5.122307916527098,47.23915680353505,0 5.121906476924318,47.23934336933517,0 5.121403791129049,47.23950652594271,0 5.119327575032742,47.2399683790192,0 5.119026208833066,47.24008849925304,0 5.118202599296895,47.24057120698848,0 5.117707300519204,47.24086731225939,0 5.117081013608392,47.24045121254105,0 5.116448634212962,47.24010829331371,0 5.115686795991675,47.23974602418807,0 5.115680592627852,47.23934976416516,0 5.114805102876976,47.23879310019413,0 5.114945563287638,47.23847951995174,0 5.114490173655335,47.23821190734523,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

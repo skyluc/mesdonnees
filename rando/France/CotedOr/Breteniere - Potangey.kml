@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Breteniere - Potangey.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Breteniere - Potangey</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				5.114506282694498,47.23823088303725,0 5.115038176273798,47.23850625808981,0 5.115786275508198,47.23716607656219,0 5.115936280777724,47.23684317793403,0 5.114287983614505,47.2356399783807,0 5.113932453164585,47.23535194290849,0 5.113668659912023,47.23517784292113,0 5.114250334704035,47.23473128854125,0 5.127569371331438,47.2240197043093,0 5.127648553990307,47.22385345202778,0 5.129279202936418,47.22263375386387,0 5.129519277923949,47.22234431454697,0 5.129737676167938,47.2222812105589,0 5.137189935116395,47.21630387235122,0 5.141255299666055,47.21303208027749,0 5.141648538509602,47.21269339381841,0 5.142127247707744,47.21225265592393,0 5.142938003447847,47.21148519679221,0 5.143349386361642,47.21109801814848,0 5.152019560225338,47.20294398697107,0 5.152428164017779,47.20256439163583,0 5.152735196758272,47.20225092725924,0 5.152860776232071,47.20200158745076,0 5.153035599735865,47.20179123327256,0 5.15324172323981,47.20163414089721,0 5.153526148408267,47.20149314241336,0 5.153717081386755,47.20135129393587,0 5.165104643038319,47.19066743549633,0 5.165491043091373,47.19029444195155,0 5.170784818966352,47.18532376148459,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

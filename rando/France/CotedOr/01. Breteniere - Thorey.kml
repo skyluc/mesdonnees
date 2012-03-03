@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>01. Breteniere - Thorey.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Breteniere - Thorey</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				5.114509494600139,47.23821367161698,0 5.114971542442466,47.23848482414387,0 5.115453674173905,47.23760351058164,0 5.115912761654156,47.23684336162322,0 5.114315934227729,47.23576411434949,0 5.113888757050158,47.23535984565574,0 5.113656403455633,47.23518241238798,0 5.11422134078467,47.23473559328349,0 5.127527270323878,47.22404729618723,0 5.127601910298758,47.22389315002112,0 5.128532839600464,47.22313865943142,0 5.128306945319483,47.22302105762896,0 5.127315715700858,47.2236998782445,0 5.125117056129711,47.22261040554861,0 5.124874329320798,47.22248132896414,0 5.119494935118912,47.22165124427504,0 5.117773737136311,47.21509471587239,0 5.11896306174275,47.21327820800742,0 5.119110666939955,47.21332835287937,0 5.11930523152232,47.21343775047843,0 5.119707812458508,47.21343321900425,0 5.120230088429438,47.21332494983238,0 5.120721820016707,47.2133063432929,0 5.121317490678143,47.21324720197151,0 5.122082564529455,47.213050886205,0 5.122625730064724,47.21300558225528,0 5.123403824940356,47.21296465756307,0 5.123688569717393,47.21293823067752,0 5.123862880363969,47.21284319278314,0 5.124321029102497,47.21267594108841,0 5.124544581792137,47.21254350980365,0 5.124668095604754,47.21238314998246,0 5.124744597466579,47.2122126409971,0 5.125244666722583,47.21205672153246,0 5.126496381886303,47.212496410657,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

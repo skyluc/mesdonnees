@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>05. Akersloot pontveer - Zuidschermer.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>05. Akersloot pontveer - Zuidschermer</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				4.74712669188057,52.57063741166446,0 4.747154306685452,52.57056991301758,0 4.746928507618669,52.57026637904997,0 4.747243590788884,52.57014520545481,0 4.748919348297161,52.57195808983801,0 4.74922521111981,52.57244127165512,0 4.749732574613807,52.57350204584138,0 4.749959932597008,52.57412839158896,0 4.750081872461953,52.57519687348069,0 4.750151848152814,52.57584370366858,0 4.750424527389026,52.57655962485248,0 4.750790716600919,52.5775490096975,0 4.751131095133239,52.57866864581777,0 4.751478927042873,52.57988189540362,0 4.751898216160799,52.58122465738921,0 4.75204164290682,52.5816747745165,0 4.752319577175919,52.58222583614877,0 4.7534888635039,52.58434039502345,0 4.758768866151801,52.58324910810042,0 4.763727145967247,52.58221441353048,0 4.769724599235841,52.58096552143597,0 4.776352155738184,52.57958059553697,0 4.777467420493611,52.5815075200776,0 4.777665492159899,52.58147004692899,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
