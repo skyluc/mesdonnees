@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="frog-transparent-shadow.svg">
+   sodipodi:docname="frog-transparent-shadow.svg"
+   inkscape:export-filename="/home/luc/Documents/test-1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="173.00782"
-     inkscape:cy="384.58881"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-4.3626012"
+     inkscape:cy="549.5639"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:window-width="1881"
      inkscape:window-height="1176"
@@ -314,6 +317,33 @@
        id="path6158"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="ombre tête"
+     style="display:inline">
+    <path
+       style="fill:#00e200;fill-opacity:1;stroke:none;display:inline"
+       d="M 259.9375 60.09375 C 260.14054 60.591671 260.35707 61.061983 260.53125 61.5 C 263.06978 61.207799 265.62139 60.969971 268.21875 60.8125 C 265.93789 60.528507 263.05743 60.308485 259.9375 60.09375 z M 149.28125 65.28125 C 142.06028 66.835849 136.52019 68.700977 133.5625 70.96875 C 107.32155 90.74592 87.4643 133.50508 85.875 172.34375 C 84.21543 212.8997 105.23057 243.60051 123.46875 272.09375 C 128.52717 279.99645 142.53125 292.8125 142.53125 292.8125 C 162.01777 302.12711 169.79782 303.86767 252.4375 311.5 C 106.20903 275.99115 118.44562 135.08635 203.5625 81.4375 C 203.5016 81.441603 203.43558 81.46489 203.375 81.46875 C 184.36593 82.68003 146.8125 73.375 146.8125 73.375 C 146.8125 73.375 147.73807 69.987687 149.28125 65.28125 z "
+       id="path6174" />
+    <path
+       style="fill:#9ae29b;fill-opacity:1;stroke:none;display:inline"
+       d="M 109.9375 192.0625 C 113.00916 217.05504 130.89682 248.74492 143.28125 262.03125 C 160.74167 280.76323 186.39338 290.26937 211.375 296.96875 C 170.52319 277.00647 148.96271 246.07808 142.6875 213.09375 C 130.79202 207.11052 118.89841 199.13105 109.9375 192.0625 z "
+       id="path6192" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="ombre tête copy"
+     id="g6188"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:nodetypes="ccssccc"
+       inkscape:connector-curvature="0"
+       id="path6190"
+       d="m 268.22472,60.820409 c -26.9857,-3.36002 -118.62524,-2.147802 -134.66222,10.148341 -26.24095,19.77717 -46.0982,62.53633 -47.6875,101.375 -1.65957,40.55595 19.35557,71.25676 37.59375,99.75 5.05842,7.9027 19.0625,20.71875 19.0625,20.71875 19.48652,9.31461 27.27696,11.06769 109.91664,18.70002 C 74.5608,268.31596 131.16164,69.130177 268.22472,60.820409 z"
+       style="fill:#00e200;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
