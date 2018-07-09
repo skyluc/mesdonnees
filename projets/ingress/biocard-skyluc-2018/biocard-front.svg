@@ -21,6 +21,14 @@
   <defs
      id="defs5533">
     <linearGradient
+       id="linearGradient4320"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#48863d;stop-opacity:1;"
+         offset="0"
+         id="stop4318" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient15789">
       <stop
@@ -102,15 +110,6 @@
          y="-1.9409354"
          transform="matrix(1,3.9764664e-5,-0.01061873,0.99994362,0,0)" />
     </mask>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient856"
-       id="linearGradient858"
-       x1="3.8299136"
-       y1="92.53106"
-       x2="20.587491"
-       y2="92.53106"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient862"
@@ -496,6 +495,15 @@
        y1="1.0000004"
        x2="29.165787"
        y2="1.0000004" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4320"
+       id="linearGradient4322"
+       x1="3.8299136"
+       y1="92.53106"
+       x2="20.587491"
+       y2="92.53106"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -504,18 +512,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="31.456806"
-     inkscape:cy="184.68359"
+     inkscape:zoom="2.8"
+     inkscape:cx="0.13439993"
+     inkscape:cy="157.89487"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer13"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1869"
-     inkscape:window-height="1025"
-     inkscape:window-x="51"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-grids="false"
@@ -594,7 +602,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -612,36 +620,6 @@
        height="90"
        x="0"
        y="207" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="model"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <image
-       sodipodi:absref="/home/luc/Downloads/IMG_20180707_200927.png"
-       y="0.25115976"
-       x="-0.52860785"
-       id="image7604"
-       xlink:href="file:///home/luc/Downloads/IMG_20180707_200927.png"
-       preserveAspectRatio="none"
-       height="89.322121"
-       width="64.331833"
-       style="stroke-width:10.04713345"
-       transform="matrix(1,-3.9762422e-5,0.01061933,0.99994361,0,0)"
-       mask="url(#mask8241)" />
-    <image
-       sodipodi:absref="/home/luc/Downloads/IMG_20180707_200927.png"
-       y="0.17168604"
-       x="-73.179955"
-       id="image7604-3"
-       xlink:href="file:///home/luc/Downloads/IMG_20180707_200927.png"
-       preserveAspectRatio="none"
-       height="89.322113"
-       width="64.331833"
-       style="stroke-width:10.04713345"
-       transform="matrix(1,-3.9762422e-5,0.01061933,0.99994361,0,0)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1569,7 +1547,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.07472515px;line-height:1.25;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient858);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.07472515px;line-height:1.25;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4322);fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="3.3373554"
        y="94.75161"
        id="text848"
@@ -1578,6 +1556,6 @@
          id="tspan846"
          x="3.3373554"
          y="94.75161"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient858);fill-opacity:1;stroke-width:0.26458332">SkyLuc</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient4322);fill-opacity:1;stroke-width:0.26458332">SkyLuc</tspan></text>
   </g>
 </svg>
