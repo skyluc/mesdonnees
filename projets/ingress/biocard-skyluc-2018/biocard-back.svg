@@ -25,7 +25,7 @@
        osb:paint="solid"
        gradientTransform="matrix(0.26458333,0,0,0.26458333,8.0470238,51.839573)">
       <stop
-         style="stop-color:#48863d;stop-opacity:1;"
+         style="stop-color:#509544;stop-opacity:1;"
          offset="0"
          id="stop8734" />
     </linearGradient>
@@ -63,7 +63,7 @@
        osb:paint="solid"
        gradientTransform="matrix(0.01627934,0,0,-0.01417093,35.313898,89.527229)">
       <stop
-         style="stop-color:#e3822e;stop-opacity:1;"
+         style="stop-color:#e3902e;stop-opacity:1;"
          offset="0"
          id="stop860" />
     </linearGradient>
@@ -634,18 +634,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="16.236036"
-     inkscape:cy="152.06994"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="73.068035"
+     inkscape:cy="142.70267"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer21"
+     inkscape:current-layer="layer19"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1172"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1869"
+     inkscape:window-height="1025"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-grids="false"
@@ -750,10 +750,10 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="petits rectangles"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#003800;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6.19999981;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#004c00;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:6.19999981;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect905-0"
        width="7.580709"
        height="5.2722135"
@@ -900,8 +900,8 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="ENL + ENL + Ingress"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0075357px;line-height:1.25;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient8736);fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -948,7 +948,7 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="status"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;vector-effect:none;fill:url(#linearGradient874);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect8604-1"
@@ -1082,7 +1082,7 @@
        ry="0.80319941" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29485536px;line-height:1.25;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29485536px;line-height:1.25;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient862);fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="51.969547"
        y="64.167702"
        id="text8608"
@@ -1091,7 +1091,7 @@
          id="tspan8606"
          x="51.969547"
          y="64.167702"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44784594px;font-family:Michroma;-inkscape-font-specification:Michroma;fill:url(#linearGradient862);stroke-width:0.26458332">ASSIST</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.44784594px;font-family:Michroma;-inkscape-font-specification:Michroma;fill:url(#linearGradient862);stroke-width:0.26458332;">ASSIST</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.94978207px;line-height:1.25;font-family:Michroma;-inkscape-font-specification:Michroma;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient862);fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1170,6 +1170,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="blabla Ingress"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        style="font-size:3.38666677px;line-height:0%;display:inline;fill:url(#linearGradient8736);stroke-width:0.28222224"
@@ -1185,7 +1186,7 @@
     </text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:#daffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="7.5706158"
        y="55.853565"
        id="text3407"><tspan
@@ -1193,51 +1194,51 @@
          id="tspan3405"
          x="7.5706158"
          y="55.853565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332">FR - Ingress est un jeu de réalité augmentée, où les</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332">FR - Ingress est un jeu de réalité augmentée, où les</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="57.280445"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3409">joueurs doivent parcourir leur ville pour capturer des</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="58.707325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3411">points d'intérêt - plaques historiques, sculptures,</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="60.134201"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3413">restaurants, ... - pour leur faction.</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="61.561081"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3415"> </tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="62.987961"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3419">EN - Ingress is a reality augmented game in which players</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="64.414841"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3421">have to go through their city to capture points of interest</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="65.841721"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3423">- sculptures, restaurants, historical markers, ... - for</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="67.2686"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3509">their faction.</tspan><tspan
          sodipodi:role="line"
          x="7.5706158"
          y="68.69548"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:-0.00264583px;fill:#daffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3425"> </tspan></text>
   </g>
   <g
@@ -1341,7 +1342,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="7.8713541"
        y="27.889063"
        id="text3513"><tspan
@@ -1349,37 +1350,37 @@
          id="tspan3511"
          x="7.8713541"
          y="27.889063"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332">level 1        2012-12-07</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">level 1        2012-12-07</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="30.029381"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3515">level 8        2013-03-13</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="32.169701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3517">level 16       2015-01-24</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="34.310017"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3519">level 16 #2    2016-04-16</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="36.450336"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
-         id="tspan3525">Explorer Onix  2016-07-22</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3525">Explorer Onyx  2016-07-22</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="38.590656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3521">level 16 #3    2017-06-01</tspan><tspan
          sodipodi:role="line"
          x="7.8713541"
          y="40.730972"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:url(#linearGradient1113);stroke-width:0.26458332"
-         id="tspan3523">Pioneer Onix   2017-11-08</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3523">Pioneer Onyx   2017-11-08</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1387,7 +1388,7 @@
      inkscape:label="passcode"
      sodipodi:insensitive="true">
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6521"
        width="18.658749"
        height="4.0508037"
@@ -1395,28 +1396,28 @@
        y="6.1274819"
        ry="0" />
     <rect
-       style="opacity:1;vector-effect:none;fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;vector-effect:none;fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523"
        width="0.44294086"
        height="0.97446984"
        x="40.921829"
        y="5.3864861" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2"
        width="0.44294086"
        height="0.97446984"
        x="40.921829"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-0"
        width="0.44294086"
        height="0.97446984"
        x="41.698452"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-3"
        width="0.44294086"
        height="0.97446984"
@@ -1425,7 +1426,7 @@
        inkscape:transform-center-x="1.4646577"
        inkscape:transform-center-y="-0.31891741" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-06"
        width="0.44294086"
        height="0.97446984"
@@ -1434,63 +1435,63 @@
        inkscape:transform-center-x="3.4903739"
        inkscape:transform-center-y="-0.28348214" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-6"
        width="0.79138762"
        height="0.97446984"
        x="43.263508"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-8"
        width="0.82091707"
        height="0.97446984"
        x="47.509834"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-9"
        width="0.44294086"
        height="0.97446984"
        x="49.452869"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-02"
        width="0.44294086"
        height="0.97446984"
        x="50.976585"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-7"
        width="0.83863467"
        height="0.97446984"
        x="53.675571"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-92"
        width="1.1988932"
        height="0.97446984"
        x="54.85675"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-89"
        width="0.44294086"
        height="0.97446984"
        x="56.386372"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-36"
        width="0.44294086"
        height="0.97446984"
        x="57.939617"
        y="5.3864856" />
     <rect
-       style="fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect6523-2-2"
        width="0.81019795"
        height="0.97446984"
@@ -1532,8 +1533,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="coin coupe"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:url(#linearGradient1393);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 13.584027,0 0,13.424066 V 0 Z"
