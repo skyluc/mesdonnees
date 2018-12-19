@@ -648,10 +648,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="76.742605"
-     inkscape:cy="176.55916"
+     inkscape:cx="31.16104"
+     inkscape:cy="166.67558"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1113,7 +1113,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="lignes"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient2905);stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00800004, 0.80100003;stroke-dashoffset:0;stroke-opacity:1"
        d="M 6.5416274,22.180632 H 58.458373"
@@ -1151,7 +1152,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="blabla"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        style="font-size:3.38666677px;line-height:0%;display:inline;fill:url(#linearGradient2903);stroke-width:0.28222224"
        y="74.596901"
@@ -1333,5 +1335,17 @@
        id="path1385"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="coin"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       style="display:inline;fill:none;stroke:#fdfdfd;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 13.141634,-1.058333 -0.44238591,12.365732"
+       id="path2033"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
