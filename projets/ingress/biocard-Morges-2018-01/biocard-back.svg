@@ -639,6 +639,12 @@
        y2="23.238966"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0412761,0,0,1,-1.3414742,-1.0583333)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1113"
+       id="linearGradient5590"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,8.0470238,78.8392)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -648,17 +654,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="31.16104"
-     inkscape:cy="166.67558"
+     inkscape:cx="116.36741"
+     inkscape:cy="152.53344"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer20"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1172"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1869"
+     inkscape:window-height="1025"
+     inkscape:window-x="51"
+     inkscape:window-y="1077"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      inkscape:snap-grids="false"
@@ -740,7 +746,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -898,11 +904,10 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="XFAC + FS + Ingress"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0075357px;line-height:1.25;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1113);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0075357px;line-height:1.25;font-family:Coda;-inkscape-font-specification:Coda;letter-spacing:0px;word-spacing:0px;fill:#fffeff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="9.6237879"
        y="66.958382"
        id="text8640"
@@ -911,7 +916,7 @@
          id="tspan8638"
          x="9.6237879"
          y="66.958382"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.20301425px;font-family:Michroma;-inkscape-font-specification:Michroma;letter-spacing:1.12782586px;fill:url(#linearGradient1113);stroke:none;stroke-width:0.26458332">X-FACTION</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.20301425px;font-family:Michroma;-inkscape-font-specification:Michroma;letter-spacing:1.12782586px;fill:#fffeff;stroke:none;stroke-width:0.26458332;fill-opacity:1;">X-FACTION</tspan></text>
     <g
        id="g1323-2"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:75.05438995"
@@ -1307,7 +1312,7 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.07472515px;line-height:1;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient8736);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.07472515px;line-height:1;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient5590);fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="6.1846743"
        y="14.785183"
        id="text848"
@@ -1316,11 +1321,11 @@
          id="tspan846"
          x="6.1846743"
          y="14.785183"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient1113);fill-opacity:1;stroke-width:0.26458332">FIRST SATURDAY</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient5590);fill-opacity:1;stroke-width:0.26458332">FIRST SATURDAY</tspan><tspan
          sodipodi:role="line"
          x="6.1846743"
          y="22.859909"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient1113);fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Refrigerator Deluxe';-inkscape-font-specification:'Refrigerator Deluxe Light';fill:url(#linearGradient5590);fill-opacity:1;stroke-width:0.26458332"
          id="tspan2817">MORGES</tspan></text>
   </g>
   <g
